@@ -9,5 +9,11 @@
     "tableContent": "true",
     "subdirectory": "src/",
     "readableSource": "only"
-  }
+  },
+  "configurations": [
+    {
+      "key": "CLIENT_VCS_LOGLVL",
+      "value": "warning"
+    }
+  ]
 }
