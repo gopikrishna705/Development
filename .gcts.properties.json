@@ -5,7 +5,7 @@
   "repositoryLayout": {
     "formatVersion": 5,
     "format": "xml",
-    "metaInformation": "https://github.com/gopikrishna705/Development",
+    "metaInformation": ".gctsmetadata/",
     "tableContent": "true",
     "subdirectory": "src/",
     "readableSource": "only"
