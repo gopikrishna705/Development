@@ -4,11 +4,10 @@
   "description": "gopikrishna705-Development",
   "repositoryLayout": {
     "formatVersion": 5,
-    "format": "json",
-    "objectStorage": "plain",
-    "metaInformation": ".gctsmetadata/",
+    "format": "xml",
+    "metaInformation": "https://github.com/gopikrishna705/Development",
     "tableContent": "true",
-    "readableSource": "false",
-    "keepClient": "false"
+    "subdirectory": "src/",
+    "readableSource": "only"
   }
 }
