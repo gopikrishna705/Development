@@ -1,0 +1,15 @@
+{
+  "name": "gopikrishna705-development",
+  "version": "1.0.0",
+  "description": "gopikrishna705-Development",
+  "repositoryLayout": {
+    "formatVersion": 5,
+    "format": "json",
+    "objectStorage": "plain",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "subdirectory": "src/",
+    "readableSource": "false",
+    "keepClient": "false"
+  }
+}
