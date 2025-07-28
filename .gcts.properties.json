@@ -5,11 +5,9 @@
   "repositoryLayout": {
     "formatVersion": 5,
     "format": "json",
-    "objectStorage": "plain",
     "metaInformation": ".gctsmetadata/",
     "tableContent": "true",
     "subdirectory": "src/",
-    "readableSource": "false",
-    "keepClient": "false"
+    "readableSource": "false"
   }
 }
