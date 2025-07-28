@@ -5,7 +5,7 @@
   "repositoryLayout": {
     "formatVersion": 5,
     "format": "json",
-    "metaInformation": ".gctsmdaat/",
+    "metaInformation": ".gctsmdat/",
     "tableContent": "true",
     "subdirectory": "src/",
     "readableSource": "true"
