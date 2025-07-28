@@ -8,6 +8,6 @@
     "metaInformation": ".gctsmetadata/",
     "tableContent": "true",
     "subdirectory": "src/",
-    "readableSource": "false"
+    "readableSource": "true"
   }
 }
